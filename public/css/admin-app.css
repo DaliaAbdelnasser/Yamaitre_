@@ -1,0 +1,103 @@
+.login-bg {
+    background-image: url(/uploads/bg.jpg) !important;
+}
+
+.login-bg.header-fixed.toolbar-fixed .wrapper{
+    padding: 20px;
+}
+
+.col-md-1, .col-md-10, .col-md-11, .col-md-12, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9 {
+    float: right !important;
+}
+[type=email], [type=number], [type=tel], [type=url] {
+    direction: rtl !important;
+}
+
+.form-check {
+    line-height: 30px !important;
+}
+.table.gy-5 td, .table.gy-5 th{
+    padding-right: 0;
+}
+.admin-logo{
+    width: 100% !important;
+}
+#kt_header {
+    background: #1a1a27;
+}
+.symbol.symbol-100px>img {
+    object-fit: cover;
+}
+.view-all{
+    position: absolute;
+    left: 2.25rem;
+    bottom: 2rem;
+    font-weight: 700;
+}
+
+.card-body.cs-pb{
+    padding-bottom: 6rem !important;
+}
+.cs-ads-link input{
+    direction: ltr;
+}
+
+.careerfy-pagination-blog ul li {
+    float: left;
+    list-style: none;
+    margin: 0px 12px 10px 0px;
+    line-height: 1;
+  }
+  
+  .careerfy-pagination-blog .prev.page-numbers, .careerfy-pagination-blog .next.page-numbers {
+    padding: 0px;
+    background-color: transparent !important;
+  }
+  
+  .careerfy-pagination-blog ul li a, .careerfy-pagination-blog ul li span {
+    float: left;
+    width: 39px;
+    height: 39px;
+    background-color: #f5f8fa;
+    font-size: 14px;
+    color: #009ef7;
+    border-radius: 20%;
+    text-align: center;
+    padding: 13.5px 0px 0px 0px;
+    -webkit-transition: all 0.4s ease-in-out;
+    -moz-transition: all 0.4s ease-in-out;
+    -ms-transition: all 0.4s ease-in-out;
+    -o-transition: all 0.4s ease-in-out;
+    transition: all 0.4s ease-in-out;
+  }
+  
+  .careerfy-pagination-blog ul li:hover a, .careerfy-pagination-blog ul li:hover span, .careerfy-pagination-blog ul li span.current {
+    background-color: #009ef7;
+    color: #ffffff;
+  }
+  
+  .careerfy-pagination-blog ul li a.prev i {
+    display: inline-block;
+    -webkit-transform: scale(-1);
+    -moz-transform: scale(-1);
+    -ms-transform: scale(-1);
+    -o-transform: scale(-1);
+    transform: scale(-1);
+  }
+  .admin .container{
+    max-width: 100%;
+  }
+
+  .ads-img-wb {
+    width: 100%;
+    height: 124px;
+    max-width: 1000px;
+    object-fit: cover;
+  }
+
+  .ads-img-mob {
+    width: 100%;
+    height: 296px;
+    max-width: 1024px;
+    object-fit: cover;
+  }

@@ -1,0 +1,7 @@
+{
+    "Admin": true,
+    "Lawyer": true,
+    "EndUser": true,
+    "Users": true,
+    "Client": true
+}
